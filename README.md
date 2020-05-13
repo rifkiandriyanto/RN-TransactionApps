@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="500" height="150" src="https://miro.medium.com/max/3030/1*-B6I9Z__mLkkiSShRLR4iQ.png">
+  <img width="50%" src="https://miro.medium.com/max/3030/1*-B6I9Z__mLkkiSShRLR4iQ.png">
 </p>
 
-<p align="center">
+<p float="left">
   <a href="https://github.com/facebook/react-native/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
   </a>

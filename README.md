@@ -2,7 +2,8 @@
   <img width="50%" src="https://miro.medium.com/max/3030/1*-B6I9Z__mLkkiSShRLR4iQ.png">
 </p>
 
-<p float="left">
+<p align="center">
+
   <a href="https://github.com/facebook/react-native/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
   </a>
@@ -18,7 +19,7 @@
 </p>
 
 # RN-TransactionApps
-<p align="center">
+<p float="left">
   <img src="images/2.jpg" alt="2" title="Transaction" />
    <img src="images/1.jpg" alt="1" title="Detail Transaction" />
 </p>
